@@ -1,0 +1,14 @@
+// This project's VS Code settings. Add your own below if you like, but keep
+// these: they switch off AI code suggestions, so the code you hand in is
+// your own. Chat stays on and follows AGENTS.md. See README.md, "Using an AI
+// assistant".
+{
+  "github.copilot.enable": {
+    "*": false,
+    "javascript": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "chat.useAgentsMdFile": true,
+  "chat.agent.enabled": false
+}

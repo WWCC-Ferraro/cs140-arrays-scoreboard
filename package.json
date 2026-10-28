@@ -1,0 +1,13 @@
+{
+  "name": "cs140-arrays-scoreboard",
+  "private": true,
+  "type": "module",
+  "description": "Seven functions on arrays, and the game-night scoreboard that uses them.",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/game-night.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
